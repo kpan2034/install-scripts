@@ -1,0 +1,32 @@
+$mod = alt or win
+Mod1 -> Alt
+Mod4 -> Win
+
+mod + d -> open rofi, type application you want to open
+mod + enter -> open terminal
+mod + {h,j,k,l} -> switch to window on left, down, up, right 
+
+mod + {#num} -> switch to that workspace #num
+
+mod + Shift + {#num} -> move window to workspace #num
+mod + Shift + {h,j,k,l} -> move window left, down, up, right
+
+mod + Shift + q -> close current window
+
+mod + f -> fullscreen toggle
+
+mod + {s, w, e} -> change layout of workspace to stacked, tabbed, split(default is split)
+
+mod + Shift + space -> floating toggle
+
+mod + Shift + c -> reload config
+mod + Shift + r -> restart i3 in place
+
+mod + Shift + e -> exit everything, go to login screen
+
+mod + Delete -> shutdown now
+
+mod + g -> gaps
+mod + Shift + g -> no gaps
+
+mod + L -> lock screen
